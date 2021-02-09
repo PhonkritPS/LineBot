@@ -6,7 +6,7 @@ const char* ssid     = "PS_Computer";
 const char* password = "0817115775"; 
 
 const char* host = "psfac"; // ตัวอย่างเช่น http://ชื่อappของคุณ.herokuapp.com/bot.php
-#define APPID   "Linebot" // ชื่อ APP ID ใน NETPIE
+#define APPID   "445ebdc0-0985-4c85-9bd3-55c0a5001ce0" // ชื่อ APP ID ใน NETPIE
 #define KEY     "Y6hfnAKtT9RGg2pe6LzRuWyJowzb9S1U" // key ของ Device Key
 #define SECRET  "wh5u_*G#0RfZu*uCG2vIl~37_9LeA(m6" // Secret ของ Device Key
 
