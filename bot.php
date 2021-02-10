@@ -27,7 +27,7 @@ if (!is_null($events['events'])) {
 
 			// Build message to reply back
 
-			$Topic = "PSFAC" ;
+			$Topic = "Linebot" ;
 			getMqttfromlineMsg($Topic,$text);
 			   
 			
